@@ -8,6 +8,7 @@ using NUnit.Framework;
 
 namespace Spellcaster
 {
+    [TestFixture]
     public class GameTests
     {
         [Test]
