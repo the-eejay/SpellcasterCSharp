@@ -1,9 +1,0 @@
-E:\Development\Spellcaster\Spellcaster\bin\Debug\Spellcaster.dll
-E:\Development\Spellcaster\Spellcaster\bin\Debug\Spellcaster.pdb
-E:\Development\Spellcaster\Spellcaster\bin\Debug\NSubstitute.dll
-E:\Development\Spellcaster\Spellcaster\bin\Debug\nunit.framework.dll
-E:\Development\Spellcaster\Spellcaster\bin\Debug\NSubstitute.xml
-E:\Development\Spellcaster\Spellcaster\bin\Debug\nunit.framework.xml
-E:\Development\Spellcaster\Spellcaster\obj\Debug\Spellcaster.csprojResolveAssemblyReference.cache
-E:\Development\Spellcaster\Spellcaster\obj\Debug\Spellcaster.dll
-E:\Development\Spellcaster\Spellcaster\obj\Debug\Spellcaster.pdb
