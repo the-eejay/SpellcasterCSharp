@@ -7,11 +7,18 @@ namespace Spellcaster
     public class Game
     {
         private readonly List<Player> _players = new List<Player>();
-        public Game(Player player1, Player player2)
+
+
+
+        public Game()
         {
-            _players.Add(player1);
-            _players.Add(player2);
+
+            _players.Add(new Player());
+            _players.Add(new Player());
         }
+
+        public Player Player1 => _players[0];
+        public Player Player2 => _players[1];
 
         public void Initialize()
         {
